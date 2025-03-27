@@ -1,0 +1,1 @@
+**Projetos desenvolvidos no bootcamp MICROSOFT AI FOR TECH - OPENAI SERVICES da DIO.**
